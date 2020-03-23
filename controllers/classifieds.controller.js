@@ -12,9 +12,9 @@
         });
   
         var contact = {
-          name: "Ryan Chenkie", 
+          name: "test", 
           phone: "(555) 555-5555",
-          email: "ryanchenkie@gmail.com"
+          email: "test@gmail.com"
         }
   
         function showToast(message) {
